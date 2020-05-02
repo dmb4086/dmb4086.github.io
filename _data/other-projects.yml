@@ -17,8 +17,8 @@
     - thing: Java Socets
 
 - name: Football Scraper
-  url: http://serenity.ist.rit.edu/~dmb4086/252/
-  code: https://github.com/dmb4086/FootballScraper
+  url: https://github.com/bchiang7/CS3200-Project
+  code: https://github.com/bchiang7/CS3200-Project
   description: A web app that displays the curret roster of FC Barcelona with live statistics. 
   used:
     - thing: Javascript
@@ -26,12 +26,23 @@
     - thing: HTML
     - thing: CSS
 
-    name: TigerPlace
-  url: http:tigerplace.tech
-  code: https://github.com/dmb4086/brick-hack-6
-  description: Made as a hackathon project, This is an online version of Goodbye-Goodbye, an annual sale of recycled/reuseable items at RIT. TigerPlace makes it easy for potential customers to buy and sell things 
-  used:
+
+-   name: TigerPlace
+    url: http:tigerplace.tech
+    code: https://github.com/dmb4086/brick-hack-6
+    description: Made as a hackathon project, This is an online version of Goodbye-Goodbye, an annual sale of recycled/reuseable items at RIT. TigerPlace makes it easy for potential customers to buy and sell things 
+    used:
     - thing: Flask
+    - thing: MySQL
+    - thing: HTML
+    - thing: CSS
+
+-   name: Faculty-Research-Database
+    url: http://serenity.ist.rit.edu/~dmb4086/Database%20Project/Faculty-Research-Database/
+    code: https://github.com/dmb4086/Faculty-Research-Database
+    description: A web app made to help students find preferred faculty for thier capstone project based on similar interests. Additionally it also lets you upload documents, research papers and more!
+    used:
+    - thing: PHP
     - thing: MySQL
     - thing: HTML
     - thing: CSS
