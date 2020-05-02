@@ -1,3 +1,3 @@
-# Huge thaks to 
+# Huge thanks to 
 
 https://brittanychiang.com/
