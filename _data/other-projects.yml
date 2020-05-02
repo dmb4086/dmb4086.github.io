@@ -26,3 +26,12 @@
     - thing: HTML
     - thing: CSS
 
+    name: TigerPlace
+  url: http:tigerplace.tech
+  code: https://github.com/dmb4086/brick-hack-6
+  description: Made as a hackathon project, This is an online version of Goodbye-Goodbye, an annual sale of recycled/reuseable items at RIT. TigerPlace makes it easy for potential customers to buy and sell things 
+  used:
+    - thing: Flask
+    - thing: MySQL
+    - thing: HTML
+    - thing: CSS
