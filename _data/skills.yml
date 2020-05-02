@@ -24,11 +24,10 @@ tools:
   - item: Git & Github
   - item: Chrome DevTools
   - item: Transmit 
-  - item: 
+  - item: Xcode
 
 design:
   - item: Adobe XD
-  - item: Xcode
   - item: Photoshop
   - item: Prototyping
   - item: Wireframing
