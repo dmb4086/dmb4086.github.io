@@ -17,7 +17,7 @@ frameworks:
   - item: Node JS
   - item: Flask
   - item: Selenium
-  - item: .NET Core
+  
 
 tools:
   - item: Bash
