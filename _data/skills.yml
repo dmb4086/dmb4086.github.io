@@ -6,7 +6,7 @@ languages:
   - item: CSS/Sass
   - item: MySQL
   - item: PHP
-  - item: C#
+ 
 
 
 
@@ -20,11 +20,13 @@ frameworks:
   
 
 tools:
-  - item: Bash
+  - item: Postman
+  - item: AWS
   - item: Git & Github
   - item: Chrome DevTools
   - item: Transmit 
   - item: Xcode
+  - item: Bash
 
 design:
   - item: Adobe XD
