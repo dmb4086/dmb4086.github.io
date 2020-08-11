@@ -1,10 +1,12 @@
+- company: Athlete Studio
+  time: Summer 2020
+  position: Full-Stack Engineer
+  # description: I have to add styles for this manually 
+  url: https://million.studio
+
 - company: Holidays & More
   time: May 2017 - August 2017
   position: Front-End Engineer
+  description: I have to add styles for this manually 
   url: https://million.studio
 
-- company: Athlete Studio
-  time: Summer 2020
-  position: Front-End Engineer
-  # description:  // I have to add styles for this manually 
-  url: https://million.studio
