@@ -8,8 +8,8 @@
     
 
 - name: Whack-A-Mole!
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
+  url: #
+  code: #
   description: A networked multiplayer version of the famous arcade game <a class="underline-link" href="https://en.wikipedia.org/wiki/Whac-A-Mole">Whack-A-Mole!</a>, in Java
   used:
     - thing: Java
@@ -17,8 +17,8 @@
     - thing: Java Socets
 
 - name: Football Scraper
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
+  url: https://github.com/dmb4086/FootballScraper
+  code: https://github.com/dmb4086/FootballScraper
   description: A web app that displays the curret roster of FC Barcelona with live statistics. 
   used:
     - thing: Javascript
@@ -38,7 +38,7 @@
     - thing: CSS
 
 -   name: Faculty-Research-Database
-    url: http://serenity.ist.rit.edu/~dmb4086/Database%20Project/Faculty-Research-Database/
+    url: https://github.com/dmb4086/FootballScraper
     code: https://github.com/dmb4086/Faculty-Research-Database
     description: A web app made to help students find preferred faculty for thier capstone project based on similar interests. Additionally it also lets you upload documents, research papers and more!
     used:
