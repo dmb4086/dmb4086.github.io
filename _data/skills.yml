@@ -6,6 +6,7 @@ languages:
   - item: CSS/Sass
   - item: MySQL
   - item: PHP
+  - item: Swift
  
 
 
