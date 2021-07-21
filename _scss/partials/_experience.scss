@@ -21,6 +21,7 @@
 
     &__time {
       font-size: 0.9rem;
+      // color: #333;
       font-family: 'Inconsolata', monospace;
 
       @include mobile {
@@ -28,7 +29,15 @@
       }
     }
 
-    &__description {
+    // &__description {
+
+    // }
+
+    // &__item{
+
+    // }
+
+    @include mobile {
       font-size: 0.8rem;
     }
   }
