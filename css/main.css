@@ -152,6 +152,11 @@ body.night .status {
   color: #e7e7e7;
 }
 
+html.night .job__description__bullet,
+body.night .job__description__bullet {
+  color: #ffffff;
+}
+
 html.night .section__content .underline-link:after,
 body.night .section__content .underline-link:after {
   background: #fafafa;
@@ -821,12 +826,11 @@ strong .code:first-of-type {
 }
 
 .experience .job__description__bullet {
-  color: #ffffff;
   display: inline-block;
   margin: 3px 3px 3px 0;
   font-family: 'apercu';
   font-size: 0.9rem;
-  font-weight: 400;
+  font-weight: 500;
   text-indent: -0.5rem;
 }
 
