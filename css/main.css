@@ -816,9 +816,40 @@ strong .code:first-of-type {
   }
 }
 
+.experience .job__description {
+  margin: 3px 3px 3px 0;
+}
+
+.experience .job__description__bullet {
+  color: #ffffff;
+  display: inline-block;
+  margin: 3px 3px 3px 0;
+  font-family: 'apercu';
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-indent: -0.5rem;
+}
+
+.experience .job__used__item {
+  display: inline-block;
+  margin: 3px 3px 3px 0;
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 3px;
+  color: #007bff;
+  border: 1px solid #007bff;
+  background: transparent;
+}
+
+.experience .job__used__item:first-of-type {
+  margin-left: 0;
+}
+
 @media screen and (max-width: 480px) {
   .experience .job {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 }
 
