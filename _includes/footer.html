@@ -6,7 +6,7 @@
     <div class="bottom">
       <span>Dev Bhatt</span>
       <img class="emoji" src="{{site.baseurl}}/img/emojis/rockon.png" alt="emoji">
-      <span>2021</span>
+      <span id="current-year">2023 (this gets changed automatically) </span>
     </div>
   </div>
   <div class="footer__links">
@@ -18,3 +18,9 @@
     {% endfor %}
   </div>
 </footer>
+
+
+<!-- dynamically change the year  -->
+<script>
+    document.getElementById('current-year').textContent = new Date().getFullYear();
+</script>

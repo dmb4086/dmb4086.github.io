@@ -1,37 +1,40 @@
 # -------------------------------------
 
 - company: Dapper Labs (Athlete Studio)
-  time: Summer 2021
-  position: Software Engineer
+  time: Summer 2021 - Present
+  position: Software Engineer & Product Manager
   description: 
-    - bullet: • Developed several internal tools to monitor performance and helped facilitate the blockchain project roadmap after the acquisition.
-    - bullet: • Led the research for blockchain technology (FLOW) and reported directly to the CEO
-
-  url: https://million.studio
+    - bullet: • Orchestrated the development of multiple pivotal internal tools, significantly enhancing system monitoring and performance, thereby aiding the strategic roadmap for blockchain projects post-acquisition.
+    - bullet: • Part of the small team that managed the successful transition of Athlete Studio's services from a web2 paradigm to the web3 architecture on the Flow Blockchain, establishing a robust and future-proof infrastructure. 
+  url: https://dapperlabs.com
   used:
     - thing: FLOW Blockchain
-    - thing: Javascript
-    - thing: React
-    - thing: AWS Lambda
-    - thing: AWS Lambda
+    - thing: Python
+    - thing: Amazon Web Services
+    - thing: Agile Methodologies
+    - thing: Product Management
+    - thing: Team Leadership
 
 # -------------------------------------
 - company: Athlete Studio
-  time: Summer 2020
-  position: Full-Stack Engineer
+  time: Summer 2020 - Summer 2021
+  position: Full-Stack Software Engineer Intern
   description: 
-    - bullet: • Managed the API development team as a Project Lead to design and develop a in house database of 100k+ dynamic attributes to source data from.
-    - bullet: • Led the infrastructure migration process by developing multiple internal REST APIs with real-time updates as part of a major directive to consolidate company’s data of 100+ athletes and over 100k data-points to a cloud solution (AWS)
-    - bullet: • Redesigned the architecture of the pipeline using AWS, resulting in a 78% faster, more scalable workflow and safer database upgrades. 
-    - bullet: • Developed several internal tools for the marketing team to perform CRUD operations on the database in a safer way, increasing production throughput. 
+    - bullet: • Steered the API development team as a Project Lead, designing and developing an in-house database housing over 100,000 dynamic attributes, serving as a critical data source for the organization.
+    - bullet: • Led the transformational infrastructure migration process, building multiple real-time REST APIs as part of a critical initiative to consolidate and migrate the company’s data of 100+ athletes and over 100,000 data-points to a scalable AWS cloud solution.
+    - bullet: • Architected a novel data pipeline using AWS, delivering a 78% faster workflow, enhancing scalability, and facilitating safer database upgrades. 
+    - bullet: • Engineered a suite of internal tools for the marketing team, empowering them to perform seamless CRUD operations on the database, thereby amplifying production throughput. 
   url: https://million.studio
   used: 
     - thing: Nodejs
     - thing: Python
     - thing: AWS Lambda
     - thing: AWS DynamoDB
-    - thing: Cloudwatch
+    - thing: AWS CloudWatch
     - thing: Postman
+    - thing: RESTful APIs
+    - thing: Data Migration
+    - thing: Database Design
 
 # -------------------------------------
 
